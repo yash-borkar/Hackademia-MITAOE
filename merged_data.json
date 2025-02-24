@@ -1,0 +1,47 @@
+[
+  {
+    "Customer ID": "AA-10315",
+    "Customer Name": "John Doe",
+    "Segment": "Consumer",
+    "Country": "United States",
+    "City": "New York",
+    "State": "NY",
+    "Postal Code": 10001,
+    "Region": "East",
+    "total_orders": 15,
+    "total_spent": 2500.50,
+    "avg_order_value": 166.70,
+    "return_rate": 0.10,
+    "product_diversity": 5
+  },
+  {
+    "Customer ID": "BB-20475",
+    "Customer Name": "Jane Smith",
+    "Segment": "Corporate",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Postal Code": 90001,
+    "Region": "West",
+    "total_orders": 8,
+    "total_spent": 1350.75,
+    "avg_order_value": 168.84,
+    "return_rate": 0.05,
+    "product_diversity": 3
+  },
+  {
+    "Customer ID": "CC-30890",
+    "Customer Name": "Michael Johnson",
+    "Segment": "Home Office",
+    "Country": "United States",
+    "City": "Chicago",
+    "State": "IL",
+    "Postal Code": 60601,
+    "Region": "Central",
+    "total_orders": 20,
+    "total_spent": 3200.00,
+    "avg_order_value": 160.00,
+    "return_rate": 0.08,
+    "product_diversity": 6
+  }
+]
